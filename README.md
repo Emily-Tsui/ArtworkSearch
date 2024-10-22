@@ -2,7 +2,7 @@
 
 Submitted by: **Emily Tsui**
 
-This web app: **This app allows users to search for an art piece by typing the name in the search bar. The search bar will filter out until the exact match is found.**
+This web app: **This app allows users to search for an art piece by typing the name in the search bar. The search bar will filter out until the exact match is found. Users can search through a list of titles that are only on display.**
 
 Time spent: **10** hours spent in total
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/yfGGKyB"  ><a href="//imgur.com/a/yfGGKyB">Artwork Search</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 GIF created with [Kap](https://getkap.co/) for macOS
